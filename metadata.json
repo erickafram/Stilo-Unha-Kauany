@@ -1,0 +1,5 @@
+{
+  "name": "Nail Style AI",
+  "description": "An application that uses AI to transfer a nail art design from one image onto the nails of a hand in another image, generating a new, stylized photo.",
+  "requestFramePermissions": []
+}
